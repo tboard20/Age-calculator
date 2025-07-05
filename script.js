@@ -1,0 +1,1 @@
+// age = document.getElementById('showage').value
